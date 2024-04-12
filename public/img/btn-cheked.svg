@@ -1,0 +1,31 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_60_204_dd" x="10.666504" y="11.329834" width="10.669769" height="10.513245" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="2"/>
+			<feGaussianBlur stdDeviation="0"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip60_202">
+			<rect width="10.666666" height="10.666666" transform="translate(10.666687 10.666687)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_60_201_0" x1="16.000000" y1="0.000000" x2="16.000000" y2="32.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#89F09C"/>
+			<stop offset="1.000000" stop-color="#3CC755"/>
+		</linearGradient>
+	</defs>
+	<rect rx="8.000000" width="32.000000" height="32.000000" fill="url(#paint_linear_60_201_0)" fill-opacity="1.000000"/>
+	<rect width="10.666666" height="10.666666" transform="translate(10.666687 10.666687)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip60_202)">
+		<g filter="url(#filter_60_204_dd)">
+			<path d="M19.65 11.62C19.83 11.43 20.08 11.33 20.34 11.32C20.6 11.32 20.85 11.42 21.04 11.61C21.22 11.79 21.33 12.03 21.33 12.29C21.33 12.55 21.24 12.8 21.05 12.99L15.83 19.52C15.74 19.62 15.63 19.7 15.51 19.75C15.39 19.81 15.26 19.84 15.13 19.84C14.99 19.84 14.86 19.82 14.74 19.77C14.62 19.72 14.51 19.64 14.41 19.55L10.95 16.09C10.76 15.9 10.66 15.65 10.66 15.39C10.66 15.13 10.77 14.88 10.95 14.7C11.13 14.51 11.38 14.41 11.64 14.41C11.9 14.41 12.15 14.51 12.34 14.7L15.08 17.44L19.63 11.65C19.63 11.64 19.64 11.63 19.65 11.62L19.65 11.62Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>
