@@ -6,29 +6,25 @@ const arr = [
 	{
 		id: 1,
 		title: 'Мужские Кроссовки Nike Blazer Mid Suede',
-		price: '12 999 руб.',
-		price: 12999,
+		price: '12 999',
 		imageUrl: '/img/snickers/image 8.jpeg',
 	},
 	{
 		id: 2,
 		title: 'Мужские Кроссовки Nike Air Max 270',
-		price: '15 699 руб.',
-		price: 15600,
+		price: '13 699',
 		imageUrl: '/img/snickers/crosi1.jpeg',
 	},
 	{
 		id: 3,
 		title: 'Мужские Кроссовки Nike Blazer Mid Suede',
-		price: '15 699 руб.',
-		price: 13999,
+		price: '8 699',
 		imageUrl: '/img/snickers/image 7.jpeg',
 	},
 	{
 		id: 4,
 		title: 'Мужские Кроссовки Under Armour Curry 8',
-		price: '15 699 руб.',
-		price: 8699,
+		price: '10 699',
 		imageUrl: '/img/snickers/image 10.jpeg',
 	},
 ];
